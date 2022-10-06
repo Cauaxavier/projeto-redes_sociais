@@ -1,2 +1,2 @@
 # projeto-redes_sociais
- projeto voltado para as minhas redes sociais.
+Projeto de redes sociais.
